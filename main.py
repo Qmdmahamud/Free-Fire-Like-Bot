@@ -33,7 +33,7 @@ if not BOT_TOKEN:
 # OWNER_ID = your tg user id (integer)    #Example: 6282811167
 # OWNER_USERNAME = "@your username"
 REQUIRED_CHANNELS =@liketutorial007
-GROUP_JOIN_LINK = “https://t.me/liketutorialgroup007
+GROUP_JOIN_LINK = https://t.me/liketutorialgroup007
 OWNER_ID = 6376568874
 OWNER_USERNAME = @Q_Md_Mahamud_Hasan
 
